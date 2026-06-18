@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2026-01-27 14:56:00
  * @LastEditors: xixi_
- * @LastEditTime: 2026-05-16 20:57:22
+ * @LastEditTime: 2026-06-18 20:13:39
  * @FilePath: /Xncut-Design/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -14,6 +14,10 @@
 # 唉......
 因为我是非常明白地层原理的, 甚至都能在脑子里完整的播放原理动画以及模拟出来, 却难以写出对应的代码, 还有最难的就是架构设计, 这是NLE软件最难的部分, 把脑子里的想法转化成代码。明白原理 ≠ 能写出代码 <br/>
 **语法**谁都会, 编程就难在如何用代码去实现你的想法, 把**业务逻辑**写出**极致**, **架构设计**的很**精良**。 这也是新手常见的问题之一。
+
+<!-- https://www.bilibili.com/video/BV1VtpczYEEh/ -->
+# 意境语言 -> 翻译 -> 计算机语言
+> 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
 
 # 怎么造?
 造NLE剪辑这类软件, 可不是刷刷力扣, 洛谷, 打打C++竞赛, 听听老师讲课, 报个培训班, 完成老师的作业等等, 然后就能造出来的软件, 这是不对的! 任何的短期培训都无法代替, NLE的架构很复杂, 那是什么? 很久很久的积累, 一点点的摸索, 不断的递归迭代, 摸爬滚打, 啃源代码.<br>成功不是一蹴而成, 麦子春天种, 秋天才能收呢. 我这一个项目, 就可以顶很多个, 什么商城, 管理系统, 小车, 那全都是渣渣.<br>
@@ -33,5 +37,12 @@
   - [欧几里德距离](Md/9.EuclideanDistance.md)
   - [侵入式设计](Md/10.IntrusiveDesign.md)
   - [后台任务](Md/11.BackgroundTask.md)
+  - [时间线层级关系](Md/12.TimelineHierarchy.md)
+  - [监视器的设计](Md/13.MonitorsDesign.md)
+  - [特效插件框架](Md/14.EffectPluginFramework.md)
+  - [渲染管线](Md/15.RenderPipeline.md)
+  - [播放后端仲裁](Md/16.PlaybackArbitration.md)
+  - [枚举键](Md/18.EnumKey.md)
+
 
 啊, 后续再更新吧, 新的一年啦, "码"到成功
